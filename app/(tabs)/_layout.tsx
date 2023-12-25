@@ -12,7 +12,7 @@ export default function TabLayout() {
       screenOptions={{
         tabBarActiveTintColor: Colors.primary,
         tabBarLabelStyle: {
-          fontFamily: "mon-sb",
+          fontFamily: "mon_sb",
         },
       }}
     >
